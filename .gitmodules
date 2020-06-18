@@ -4,3 +4,12 @@
 [submodule "wp-coding-ninja"]
 	path = wp-coding-ninja
 	url = https://github.com/xaviranik/wp-coding-ninja.git
+[submodule "wd-post-view"]
+	path = wd-post-view
+	url = https://github.com/xaviranik/wd-post-view.git
+[submodule "xvr-post-excerpt"]
+	path = xvr-post-excerpt
+	url = https://github.com/xaviranik/xvr-post-excerpt.git
+[submodule "xvr-book-review"]
+	path = xvr-book-review
+	url = https://github.com/xaviranik/xvr-book-review.git
