@@ -16,3 +16,6 @@
 [submodule "xvr-latest-posts"]
 	path = xvr-latest-posts
 	url = https://github.com/xaviranik/xvr-latest-posts.git
+[submodule "xvr-featured-posts"]
+	path = xvr-featured-posts
+	url = https://github.com/xaviranik/xvr-featured-posts.git
